@@ -1,0 +1,1 @@
+# wordpress_hotel_booking_plugin
